@@ -1,0 +1,26 @@
+{
+  "name": "svelte-browserify-wrapper",
+  "version": "0.0.0",
+  "description": "Wrap every bundled Svelte component in a single function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/svelte-browserify-wrapper.git"
+  },
+  "keywords": [
+    "svelte",
+    "browserify"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/svelte-browserify-wrapper/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/svelte-browserify-wrapper#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
