@@ -1,0 +1,9 @@
+{
+  "name": "svelte-browserify-wrapper-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js > bundle.js",
+    "start": "http-server -p 3000 -c-1"
+  }
+}

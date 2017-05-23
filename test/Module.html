@@ -1,0 +1,11 @@
+<button on:click="load()">load</button>
+<p>{{data}}</p>
+<script>
+export default {
+	methods: {
+		load() {
+			return this.soMagical().then(data => this.set({ data }))
+		}
+	}
+}
+</script>
