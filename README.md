@@ -1,5 +1,7 @@
 # svelte-browserify-wrapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/svelte-browserify-wrapper.svg)](https://greenkeeper.io/)
+
 Wrap every bundled Svelte component in a single function.
 
 ## install
