@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/saibotsivad/svelte-browserify-wrapper#readme",
   "dependencies": {
-    "magic-string": "^0.20.0",
+    "magic-string": "^0.22.3",
     "through2": "^2.0.3"
   },
   "devDependencies": {
